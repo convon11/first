@@ -13,8 +13,13 @@ def rode(s):
 *rode command^
 age=input("enter your age:")
 *age test^
-if age=13:
+if age==13:
    print("you are corey")
 else:
    print("you are not corey")
 *rest of age test^
+if age==13:
+   rode("corey")
+else:
+   rode("josh"
+*rode test^
