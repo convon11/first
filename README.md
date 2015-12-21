@@ -1,2 +1,2 @@
 # first
-dont know what is going to happen, bu im throwing it into the world
+dont know what is going to happen, butim throwing it into the world
