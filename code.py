@@ -20,6 +20,10 @@ else:
 *rest of age test^
 if age==13:
    rode("corey")
+elif age==15:
+   rode("josh")
+elif age==40:
+   rode("mom")
 else:
-   rode("josh"
+   rode("unknown")
 *rode test^
