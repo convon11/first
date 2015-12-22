@@ -8,8 +8,9 @@ else:
   print("it didnt work")
 *u test^
 def rode(s):
-   print("input name")
+   print(input "name:")
    print("hello,my name is "s)
+   return
 *rode command^
 age=input("enter your age:")
 *age test^
@@ -33,3 +34,5 @@ y=15
 *letter numbers^
 k=h,j,y,u
 *k sting^
+print(k)
+*k test^
