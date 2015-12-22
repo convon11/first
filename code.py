@@ -27,3 +27,9 @@ elif age==40:
 else:
    rode("unknown")
 *rode test^
+h=13
+j=12
+y=15
+*letter numbers^
+k=h,j,y,u
+*k sting^
