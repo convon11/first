@@ -59,3 +59,9 @@ g=5
 y=c+g
 print(c+g*y*c)
 #random veriables^
+import time
+#adding time^
+t=time.time()
+#defining time^
+print ("t since 12:00:",t)
+#printing time^
