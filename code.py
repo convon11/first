@@ -49,3 +49,8 @@ def square(x):
 #square command
 square(6)
 #square test 2
+tup1=(he,hehe,hehehe);
+#tuple list^
+print tup1[0]
+print tup1[1]
+#tuple test^
