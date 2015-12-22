@@ -40,3 +40,7 @@ x=1
 while true:
    print ("the x is:%d"%(x))
    x+=1
+#x loop test
+r=8
+r(2)
+#square test
