@@ -70,4 +70,7 @@ import smtplib
 smtpObj = smtplib.SMTP( [host [, port [, local_hostname]]] )
 #useing email^
 class hue:
-   undefind
+   pass
+#origin class^
+class huel(hue):
+   pass
