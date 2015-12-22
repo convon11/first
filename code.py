@@ -44,3 +44,8 @@ while true:
 r=8
 r(2)
 #square test
+def square(x):
+   return x*x
+#square command
+square(6)
+#square test 2
