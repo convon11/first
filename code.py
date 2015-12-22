@@ -40,17 +40,22 @@ x=1
 while true:
    print ("the x is:%d"%(x))
    x+=1
-#x loop test
+#x loop test^
 r=8
 r(2)
-#square test
+#square test^
 def square(x):
    return x*x
-#square command
+#square command^
 square(6)
-#square test 2
-tup1=(he,hehe,hehehe);
+#square test 2^
+tup1=("he,hehe,hehehe");
 #tuple list^
 print tup1[0]
 print tup1[1]
 #tuple test^
+c=5
+g=5
+y=c+g
+print(c+g*y*c)
+#random veriables^
