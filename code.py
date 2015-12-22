@@ -69,3 +69,5 @@ import smtplib
 #adding email^
 smtpObj = smtplib.SMTP( [host [, port [, local_hostname]]] )
 #useing email^
+class hue:
+   undefind
