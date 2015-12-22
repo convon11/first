@@ -65,3 +65,7 @@ t=time.time()
 #defining time^
 print ("t since 12:00:",t)
 #printing time^
+import smtplib
+#adding email^
+smtpObj = smtplib.SMTP( [host [, port [, local_hostname]]] )
+#useing email^
