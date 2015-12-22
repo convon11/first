@@ -36,3 +36,7 @@ k=h,j,y,u
 #k sting^
 print(k)
 #k test^
+x=1
+while true:
+   print ("the x is:%d"%(x))
+   x+=1
