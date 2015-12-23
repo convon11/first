@@ -8,7 +8,7 @@ else:
   print("it didnt work")
 #u test^
 def rode(s):
-   print(input "name:")
+   s=input "name:"
    print("hello,my name is "s)
    return
 #rode command^
