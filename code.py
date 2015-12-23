@@ -74,3 +74,4 @@ class hue:
 #origin class^
 class huel(hue):
    pass
+#sub class^
