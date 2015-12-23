@@ -2,10 +2,11 @@ print("hello world")
 #originall test^
 u=5
 #u defined^
-if u==5:
-   print("it worked")
-else:
-  print("it didnt work")
+def u_test:
+   if u==5:
+      print("it worked")
+   else:
+      print("it didnt work")
 #u test^
 def rode(s):
    print("hello,my name is "s)
@@ -20,12 +21,12 @@ else:
 #rest of age test^
 if age==13:
    rode("corey")
-elif age==15:
+elif age==>15:
    rode("josh")
 elif age==40:
    rode("mom")
 else:
-   rode("unknown")
+   rode("stranger")
 #rode test^
 h=13
 j=12
