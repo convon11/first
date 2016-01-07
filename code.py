@@ -60,9 +60,9 @@ print(c+g*y*c)
 #random veriables^
 import time
 #adding time^
-t=time.time()
+ti=time.time()
 #defining time^
-print ("t since 12:00:",t)
+print ("t since 12:00:",ti)
 #printing time^
 import smtplib
 #adding email^
@@ -88,3 +88,11 @@ t.left(10)
 #turning turtle left^
 t.goto(0,0)
 #teleporting turtle^
+from tkinter import*
+#adding tkinter^
+ca=canvas(master,width=200,height=200)
+#defineing canvas
+ca.pack()
+#adding canvas in the variable
+ca.create_line(0,0,200,100)
+#adding a line^
