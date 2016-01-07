@@ -74,4 +74,17 @@ class hue:
 class huel(hue):
    pass
 #sub class^
-#
+import turtle()
+#adding turtle^
+t=turtle()
+#definging t
+t.forward(10)
+#moveing turtle foreward^
+t.back(10)
+#moving turtle back
+t.right(10)
+#turning turtle right
+t.left(10)
+#turning turtle left
+t.goto(0,0)
+#teleporting turtle
