@@ -77,14 +77,14 @@ class huel(hue):
 import turtle()
 #adding turtle^
 t=turtle()
-#definging t
+#definging t^
 t.forward(10)
 #moveing turtle foreward^
 t.back(10)
-#moving turtle back
+#moving turtle back^
 t.right(10)
-#turning turtle right
+#turning turtle right^
 t.left(10)
-#turning turtle left
+#turning turtle left^
 t.goto(0,0)
-#teleporting turtle
+#teleporting turtle^
