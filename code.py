@@ -96,3 +96,7 @@ ca.pack()
 #adding canvas in the variable
 ca.create_line(0,0,200,100)
 #adding a line^
+hi=t.button(text=button,command=print("work")
+#adding the button^
+hi.pack
+#creating the button^
